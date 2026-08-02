@@ -219,32 +219,6 @@ Generate PDF
 
 ---
 
-# 📸 Screenshots
-
-## Home Page
-
-_Add screenshot here_
-
----
-
-## AI Research
-
-_Add screenshot here_
-
----
-
-## Company Report
-
-_Add screenshot here_
-
----
-
-## PDF Report
-
-_Add screenshot here_
-
----
-
 # 🎯 Future Improvements
 
 - Authentication
