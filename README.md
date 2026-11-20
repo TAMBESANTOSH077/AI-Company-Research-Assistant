@@ -5,7 +5,6 @@ An AI-powered web application that researches companies using website crawling, 
 ---
 
 ## 📌 Features
-
 - 🔍 Search any company
 - 🌐 Automatically finds the official website
 - 🕸 Crawls website content
