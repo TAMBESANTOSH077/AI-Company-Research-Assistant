@@ -44,10 +44,6 @@ An AI-powered web application that researches companies using website crawling, 
 
 ---
 
-
-
-
-
 ## 📂 Project Structure
 
 ```
