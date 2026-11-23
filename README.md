@@ -3,7 +3,6 @@
 An AI-powered web application that researches companies using website crawling, AI analysis, competitor research, and generates downloadable PDF reports.
 
 ---
-
 ## 📌 Features
 - 🔍 Search any company
 - 🌐 Automatically finds the official website
