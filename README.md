@@ -18,7 +18,6 @@ An AI-powered web application that researches companies using website crawling, 
 - 🎨 React + Vite Frontend
 
 ---
-
 ## 🛠 Tech Stack
 
 ### Frontend
