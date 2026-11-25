@@ -115,9 +115,7 @@ pip install -r requirements.txt
 OPENROUTER_API_KEY=YOUR_OPENROUTER_KEY
 SERPER_API_KEY=YOUR_SERPER_KEY
 ```
-
 ---
-
 ## Run Backend
 
 ```bash
