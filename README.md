@@ -16,6 +16,8 @@ An AI-powered web application that researches companies using website crawling, 
 - ⚡ FastAPI Backend
 - 🎨 React + Vite Frontend
 
+
+
 ---
 ## 🛠 Tech Stack
 
